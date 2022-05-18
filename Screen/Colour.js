@@ -22,7 +22,8 @@ const AppColours = StyleSheet.create({
         color:'#5956E9',
     },
     Home_Colour:{
-        backgroundColor: '#F2F2F2',
+       // backgroundColor: '#F2F2F2',
+        backgroundColor: '#E5E5E5',
     }
 })
 
