@@ -78,8 +78,7 @@ export default function Home() {
             <View style={styles.View_Text_order}>
                 <Text style={styles.Text_Order_style}>
                     Order online collect in store
-                </Text>
-            
+                </Text>        
             </View>
 
             <View style={{ height: 50, top: 180, left: 20, width: 300 }}>
